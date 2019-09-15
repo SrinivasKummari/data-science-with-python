@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 titanic
 ==============================
 
@@ -55,3 +56,7 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# data-science-with-python
+DataScience with Python. Building a predictive model for Titanic Disaster.
+>>>>>>> dc08f5770aec0a099e41c4ce4ff00052327bc08d
